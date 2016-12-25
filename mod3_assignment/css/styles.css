@@ -1,0 +1,88 @@
+/** HEADER **/
+#header-nav {
+  background-color: lightgrey;
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
+}
+
+.container{
+   margin-left: 10px;
+}
+
+.navbar-brand {
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+
+.navbar-brand h1 { /* Food, LLC */
+  color: black;
+  font-size: 2.5em;
+  font-weight: bold;
+  text-align:left;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#second_header {
+    font-size: 3.0em;
+    padding: 0px;
+    margin-top: 0px;
+    font-weight: bold;
+    background-color: white;
+    color: black;
+    margin-bottom: 15px;
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  font-size: 2.0em;
+  color: black bold;
+  text-align: center;
+  border-top: 2px solid black;
+  background-color: white;
+}
+
+#nav-list a:hover {
+  background: lightgrey;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -50px;
+}
+
+.navbar-header button.navbar-toggle:hover{
+  background-color: white;
+}
+
+
+
+/* start menus */
+.menu_title {
+    text-align: center;
+    color: black bold;
+    font-size: 2.5em;
+    padding: 10px;
+}
+
+.menu_item_box {
+    height: 300px;
+    margin-bottom: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: lightgrey;
+    overflow: hidden;
+}
+
+.menu_text{
+    text-align:justify;
+    font-size: 1.5em;
+    padding: 15px;
+
+}
